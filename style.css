@@ -2,36 +2,33 @@
 
 h1 {
   color:rgba(0, 0, 0, 0.753);
+  margin-top: auto;
+  
 
  
 }
  #links a {
-  margin-right: 20px;
-  padding-right: 20px;
+  margin-right: 90px;
+  padding-right: 90px;
   font-size: 20px;
-  background-color: black;
   color: #fff;
   text-decoration: none;
+  margin-left: 49px;
+
+  
   
 }
 
 body {
-  font-family: Arial, sans-serif;
-  background-color: #f2f2f2;
-
+  font-family: Arial;
+  
 }
 
-header {
-  background-color: #fff;
-  color: black;
-  padding: 30px;
-}
-
-div {
+div#links{
   list-style-type: none;
   background-color: black;
-  padding: 10px;
-  text-align: center;
+  padding: 10px
+  
 }
 
 
@@ -41,10 +38,13 @@ footer {
   padding: 10px;
   text-align: center;
 }
-a {
-  color: #f2f2f2;
-}
-img {
+
+#cabeçalho img{
   border-radius:90px;
   
+}
+   section  {
+  
+ 
+ 
 }
